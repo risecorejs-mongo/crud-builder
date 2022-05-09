@@ -1,23 +1,23 @@
 {
-  "name": "@risecorejs/crud-builder",
+  "name": "@risecorejs-mongo/crud-builder",
   "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/risecorejs/crud-builder.git"
+    "url": "git+https://github.com/risecorejs-mongo/crud-builder.git"
   },
   "author": "Amenov Abdulsalam <risecorejs@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/risecorejs/crud-builder/issues"
+    "url": "https://github.com/risecorejs-mongo/crud-builder/issues"
   },
-  "homepage": "https://github.com/risecorejs/crud-builder#readme",
+  "homepage": "https://github.com/risecorejs-mongo/crud-builder#readme",
   "devDependencies": {
     "prettier": "^2.3.2"
   },
   "dependencies": {
-    "@risecorejs/core": "^2.2.1",
+    "@risecorejs-mongo/core": "^2.2.1",
     "http-status-codes": "^2.2.0"
   }
 }
