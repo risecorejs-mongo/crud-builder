@@ -1,4 +1,4 @@
-const models = require('@risecorejs/core/models')
+const models = require('@risecorejs-mongo/core/models')
 const httpStatusCodes = require('http-status-codes')
 
 module.exports = {
